@@ -1,0 +1,2552 @@
+{
+	"1": {
+		"nome": "Água de coco verde",
+		"porcao": "1 copo de 240 ml",
+		"caloria": "62"
+	},
+	"2": {
+		"nome": "Café com açúcar",
+		"porcao": "1 xícara de 50 ml",
+		"caloria": "33"
+	},
+	"3": {
+		"nome": "Café sem açúcar",
+		"porcao": "1 xícara de 40 ml",
+		"caloria": "3"
+	},
+	"4": {
+		"nome": "Caldo de cana",
+		"porcao": "1 copo de 240 ml",
+		"caloria": "202"
+	},
+	"5": {
+		"nome": "Suco de abacaxi natural",
+		"porcao": "1 copo de 240 ml",
+		"caloria": "100"
+	},
+	"6": {
+		"nome": "Suco de acerola natural",
+		"porcao": "1 copo de 240 ml",
+		"caloria": "36"
+	},
+	"7": {
+		"nome": "Suco de maçã natural",
+		"porcao": "1 copo de 240 ml",
+		"caloria": "154"
+	},
+	"8": {
+		"nome": "Suco de manga natural",
+		"porcao": "1 copo de 240 ml",
+		"caloria": "109"
+	},
+	"9": {
+		"nome": "Suco de melão natural",
+		"porcao": "1 copo de 240 ml",
+		"caloria": "60"
+	},
+	"10": {
+		"nome": "Suco de milho verde natural",
+		"porcao": "1 copo de 240 ml",
+		"caloria": "271"
+	},
+	"11": {
+		"nome": "Suco de morango natural",
+		"porcao": "1 copo de 240 ml",
+		"caloria": "39"
+	},
+	"12": {
+		"nome": "Suco de pêssego natural",
+		"porcao": "1 copo de 240 ml",
+		"caloria": "77"
+	},
+	"13": {
+		"nome": "Suco de tomate fresco",
+		"porcao": "1 copo de 240 ml",
+		"caloria": "27"
+	},
+	"14": {
+		"nome": "Aguardente",
+		"porcao": "½ copo – 120 ml",
+		"caloria": "277"
+	},
+	"15": {
+		"nome": "Cerveja",
+		"porcao": "1 lata de 350 ml",
+		"caloria": "147"
+	},
+	"16": {
+		"nome": "Cerveja light",
+		"porcao": "1 lata de 360 ml",
+		"caloria": "148"
+	},
+	"17": {
+		"nome": "Champanhe",
+		"porcao": "1 taça de 125 ml",
+		"caloria": "85"
+	},
+	"18": {
+		"nome": "Chope",
+		"porcao": "1 tulipa de 300 ml",
+		"caloria": "180"
+	},
+	"19": {
+		"nome": "Uísque",
+		"porcao": "1 dose de 100 ml",
+		"caloria": "240"
+	},
+	"20": {
+		"nome": "Vinho branco doce",
+		"porcao": "1 taça de 125 ml",
+		"caloria": "178"
+	},
+	"21": {
+		"nome": "Vinho branco seco",
+		"porcao": "1 taça de 125 ml",
+		"caloria": "107"
+	},
+	"22": {
+		"nome": "Vinho Rosé",
+		"porcao": "1 taça de 125 ml",
+		"caloria": "93"
+	},
+	"23": {
+		"nome": "Vinho tinto seco",
+		"porcao": "1 taça de 125 ml",
+		"caloria": "107"
+	},
+	"24": {
+		"nome": "Vodka",
+		"porcao": "1 cálice de 20 ml",
+		"caloria": "48"
+	},
+	"25": {
+		"nome": "Coca-Cola",
+		"porcao": "1 lata de 350 ml",
+		"caloria": "137"
+	},
+	"26": {
+		"nome": "Coca-Cola Light",
+		"porcao": "1 lata de 350",
+		"caloria": "1,5"
+	},
+	"27": {
+		"nome": "Fanta",
+		"porcao": "1 lata de 350 ml",
+		"caloria": "189"
+	},
+	"28": {
+		"nome": "Fanta Diet",
+		"porcao": "1 lata de 350 ml",
+		"caloria": "15"
+	},
+	"29": {
+		"nome": "Gatorate – todos os sabores",
+		"porcao": "1 frasco de 473 ml",
+		"caloria": "109"
+	},
+	"30": {
+		"nome": "Guaraná",
+		"porcao": "1 copo de 240 ml",
+		"caloria": "75"
+	},
+	"31": {
+		"nome": "Guaraná diet",
+		"porcao": "1 lata de 350 ml",
+		"caloria": "4"
+	},
+	"32": {
+		"nome": "Sport Drink limão",
+		"porcao": "2 colheres de sopa (20g)",
+		"caloria": "51"
+	},
+	"33": {
+		"nome": "Sprite",
+		"porcao": "1 lata de 350 ml",
+		"caloria": "115"
+	},
+	"34": {
+		"nome": "Sprite diet limão",
+		"porcao": "1 lata de 350 ml",
+		"caloria": "5"
+	},
+	"35": {
+		"nome": "Alcatra assada",
+		"porcao": "2 fatias (150g)",
+		"caloria": "301"
+	},
+	"36": {
+		"nome": "Alcatra frita",
+		"porcao": "2 fatias (100g)",
+		"caloria": "235"
+	},
+	"37": {
+		"nome": "Almôndega caseira de carne",
+		"porcao": "1 unidade (30g)",
+		"caloria": "61"
+	},
+	"38": {
+		"nome": "Almôndega de frango",
+		"porcao": "1 unidade (25g)",
+		"caloria": "54"
+	},
+	"39": {
+		"nome": "Almôndega de peru",
+		"porcao": "1 unidade (25g)",
+		"caloria": "46"
+	},
+	"40": {
+		"nome": "Antecoxa de frango assada",
+		"porcao": " 2 unidades (100g)",
+		"caloria": "109"
+	},
+	"41": {
+		"nome": "Baby beef",
+		"porcao": "1 unidade (100g)",
+		"caloria": "120"
+	},
+	"42": {
+		"nome": "Bacon fatiado",
+		"porcao": "1 fatia (10g)",
+		"caloria": "54"
+	},
+	"43": {
+		"nome": "Bacon frito",
+		"porcao": "2 cubos (30g)",
+		"caloria": "198"
+	},
+	"44": {
+		"nome": "Bisteca de porco",
+		"porcao": "1 unidade (100g)",
+		"caloria": "337"
+	},
+	"45": {
+		"nome": "Costeleta de porco",
+		"porcao": "2 unidades (100g)",
+		"caloria": "483"
+	},
+	"46": {
+		"nome": "Coxa de frango",
+		"porcao": "1 unidade (100g)",
+		"caloria": "144"
+	},
+	"47": {
+		"nome": "Coxa de frango assada c/pele",
+		"porcao": "1 unidade (100g)",
+		"caloria": "110"
+	},
+	"48": {
+		"nome": "Coxa de frango assada s/pele",
+		"porcao": "1 unidade (100g)",
+		"caloria": "98"
+	},
+	"49": {
+		"nome": "Coxa de frango cozida",
+		"porcao": "1 unidade (100g)",
+		"caloria": "120"
+	},
+	"50": {
+		"nome": "Cupim",
+		"porcao": "2 fatias (150g)",
+		"caloria": "375"
+	},
+	"51": {
+		"nome": "Fígado de boi frito",
+		"porcao": "1 fatia (100g)",
+		"caloria": "210"
+	},
+	"52": {
+		"nome": "Fígado de galinha",
+		"porcao": "1 colher de sopa (25g)",
+		"caloria": "35"
+	},
+	"53": {
+		"nome": "Filé de frango",
+		"porcao": " 2 filés (100g)",
+		"caloria": "101"
+	},
+	"54": {
+		"nome": "Filé mignon",
+		"porcao": "1 fatia (100g)",
+		"caloria": "140"
+	},
+	"55": {
+		"nome": "Hamburger bovina",
+		"porcao": "1 unidade (56g)",
+		"caloria": "116"
+	},
+	"56": {
+		"nome": "Hamburger calabresa",
+		"porcao": "1 unidade (56g)",
+		"caloria": "149"
+	},
+	"57": {
+		"nome": "Hamburger de chester",
+		"porcao": "1 unidade (56g)",
+		"caloria": "105"
+	},
+	"58": {
+		"nome": "Hamburger de frango",
+		"porcao": "1 unidade (96g)",
+		"caloria": "179"
+	},
+	"59": {
+		"nome": "Lagarto de boi assado",
+		"porcao": "3 fatias (100g)",
+		"caloria": "170"
+	},
+	"60": {
+		"nome": "Leitão",
+		"porcao": "2 pedaços (170g)",
+		"caloria": "308"
+	},
+	"61": {
+		"nome": "Língua de boi cozida",
+		"porcao": "2 pedaços (100g)",
+		"caloria": "287"
+	},
+	"62": {
+		"nome": "Lombo assado",
+		"porcao": "1 fatia (100g)",
+		"caloria": "272"
+	},
+	"63": {
+		"nome": "Maminha",
+		"porcao": "1 fatia (100g)",
+		"caloria": "141"
+	},
+	"64": {
+		"nome": "Miolo de coxão mole",
+		"porcao": "1 filé (100g)",
+		"caloria": "120"
+	},
+	"65": {
+		"nome": "Moela de galinha",
+		"porcao": "1 pires (100g)",
+		"caloria": "78"
+	},
+	"66": {
+		"nome": "Músculo cozido",
+		"porcao": "3 pedaços (100g)",
+		"caloria": "180"
+	},
+	"67": {
+		"nome": "Patinho de boi assado",
+		"porcao": "3 fatias (100g)",
+		"caloria": "200"
+	},
+	"68": {
+		"nome": "Peito de frango s/pele",
+		"porcao": "1 filé (100g)",
+		"caloria": "100"
+	},
+	"69": {
+		"nome": "Pernil de porco assado",
+		"porcao": "1 fatias (100g)",
+		"caloria": "196"
+	},
+	"70": {
+		"nome": "Perú",
+		"porcao": "2 filés (100g)",
+		"caloria": "155"
+	},
+	"71": {
+		"nome": "Picanha",
+		"porcao": "1 fatia (100g)",
+		"caloria": "287"
+	},
+	"72": {
+		"nome": "Rã",
+		"porcao": "1 unidade (200g)",
+		"caloria": "128"
+	},
+	"73": {
+		"nome": "Rabo de porco salgado",
+		"porcao": "3 unidades (100g)",
+		"caloria": "426"
+	},
+	"74": {
+		"nome": "Rosbife",
+		"porcao": "1 fatia (50g)",
+		"caloria": "83"
+	},
+	"75": {
+		"nome": "Tender",
+		"porcao": "4 fatias (100g)",
+		"caloria": "210"
+	},
+	"76": {
+		"nome": "Apresuntado",
+		"porcao": "1 fatia (15g)",
+		"caloria": "22"
+	},
+	"77": {
+		"nome": "Blanquet de peru",
+		"porcao": "1 fatia (10g)",
+		"caloria": "13"
+	},
+	"78": {
+		"nome": "Copa fatiada maturada",
+		"porcao": "1 fatia (6g)",
+		"caloria": "22"
+	},
+	"79": {
+		"nome": "Lingüiça calabresa",
+		"porcao": "1 porção (100g)",
+		"caloria": "300"
+	},
+	"80": {
+		"nome": "Lingüiça de frango",
+		"porcao": "1 porção (100g)",
+		"caloria": "166"
+	},
+	"81": {
+		"nome": "Lingüiça de peru defumada",
+		"porcao": "1 porção (100g)",
+		"caloria": "148"
+	},
+	"82": {
+		"nome": "Lingüiça toscana",
+		"porcao": "1 porção (100g)",
+		"caloria": "255"
+	},
+	"83": {
+		"nome": "Lombo canadense",
+		"porcao": "1 fatia (15g)",
+		"caloria": "21"
+	},
+	"84": {
+		"nome": "Lombo defumado",
+		"porcao": "1 fatia (15g)",
+		"caloria": "29"
+	},
+	"85": {
+		"nome": "Morcela",
+		"porcao": "1 porção (100g)",
+		"caloria": "258"
+	},
+	"86": {
+		"nome": "Mortadela",
+		"porcao": "1 fatia fina (15g)",
+		"caloria": "41"
+	},
+	"87": {
+		"nome": "Mortadela de frango",
+		"porcao": "1 fatia fina (15g)",
+		"caloria": "20"
+	},
+	"88": {
+		"nome": "Paio",
+		"porcao": "1 unidade (100g)",
+		"caloria": "314"
+	},
+	"89": {
+		"nome": "Peito de peru defumado",
+		"porcao": "1 fatia (15g)",
+		"caloria": "14"
+	},
+	"90": {
+		"nome": "Presunto cozido",
+		"porcao": "1 fatia (15g)",
+		"caloria": "18"
+	},
+	"91": {
+		"nome": "Presunto cru",
+		"porcao": "1 fatia (15g)",
+		"caloria": "54"
+	},
+	"92": {
+		"nome": "Salame italiano",
+		"porcao": "1 fatia pequena (2,5g)",
+		"caloria": "10"
+	},
+	"93": {
+		"nome": "Salaminho",
+		"porcao": "1 fatia pequena (2,5g)",
+		"caloria": "10"
+	},
+	"94": {
+		"nome": "Salsinha",
+		"porcao": "1 unidade (40g)",
+		"caloria": "120"
+	},
+	"95": {
+		"nome": "Salsicha light de chester",
+		"porcao": "1 unidade (40g)",
+		"caloria": "64"
+	},
+	"96": {
+		"nome": "Salsicha Hot Dog",
+		"porcao": "1 unidade (50g)",
+		"caloria": "115"
+	},
+	"97": {
+		"nome": "Salsichão",
+		"porcao": "1 fatia (10g)",
+		"caloria": "30"
+	},
+	"98": {
+		"nome": "Anchova cozida",
+		"porcao": "1 filé (100g)",
+		"caloria": "118"
+	},
+	"99": {
+		"nome": "Anchova à milanesa",
+		"porcao": "1 filé (100g)",
+		"caloria": "210"
+	},
+	"100": {
+		"nome": "Atum cru",
+		"porcao": "1 posta (100g)",
+		"caloria": "146"
+	},
+	"101": {
+		"nome": "Bacalhau cozido",
+		"porcao": "1 porção (100g)",
+		"caloria": "100"
+	},
+	"102": {
+		"nome": "Cação cozido",
+		"porcao": "1 posta (100g)",
+		"caloria": "129"
+	},
+	"103": {
+		"nome": "Camarão cozido",
+		"porcao": "1 porção (100g)",
+		"caloria": "82"
+	},
+	"104": {
+		"nome": "Camarão frito",
+		"porcao": "1 porção (100g)",
+		"caloria": "310"
+	},
+	"105": {
+		"nome": "Casquinha de Caranguejo",
+		"porcao": "1 unidade",
+		"caloria": "250"
+	},
+	"106": {
+		"nome": "Casquinha de Siri",
+		"porcao": "1 unidade (200g)",
+		"caloria": "413"
+	},
+	"107": {
+		"nome": "Caviar",
+		"porcao": "1 colher de chá (10g)",
+		"caloria": "24"
+	},
+	"108": {
+		"nome": "Dourado",
+		"porcao": "1 posta (100g)",
+		"caloria": "88"
+	},
+	"109": {
+		"nome": "Haddock cozido",
+		"porcao": "1 filé (100g)",
+		"caloria": "100"
+	},
+	"110": {
+		"nome": "Kani-Kama",
+		"porcao": "1 stick (16g)",
+		"caloria": "13"
+	},
+	"111": {
+		"nome": "Lagosta cozida s/ molho",
+		"porcao": "1 unidade (200g)",
+		"caloria": "196"
+	},
+	"112": {
+		"nome": "Linguado assado ou grelhado",
+		"porcao": "1 filé (100g)",
+		"caloria": "90"
+	},
+	"113": {
+		"nome": "Lula cozida",
+		"porcao": "1 pires de chá (100g)",
+		"caloria": "93"
+	},
+	"114": {
+		"nome": "Lula frita empanada",
+		"porcao": "1 pires de chá (100g)",
+		"caloria": "373"
+	},
+	"115": {
+		"nome": "Mariscos cozidos",
+		"porcao": "1 xícara de chá (100g)",
+		"caloria": "96"
+	},
+	"116": {
+		"nome": "Mexilhão cozido",
+		"porcao": "½ xícara de chá (100g)",
+		"caloria": "79"
+	},
+	"117": {
+		"nome": "Namorado cozido",
+		"porcao": "1 filé (100g)",
+		"caloria": "122"
+	},
+	"118": {
+		"nome": "Ostras",
+		"porcao": "3 unidades (100g)",
+		"caloria": "81"
+	},
+	"119": {
+		"nome": "Ovas de peixe cruas",
+		"porcao": "1 porção (100g)",
+		"caloria": "125"
+	},
+	"120": {
+		"nome": "Pescada cozida",
+		"porcao": "1 filé (100g)",
+		"caloria": "97"
+	},
+	"121": {
+		"nome": "Pintado grelhado",
+		"porcao": "1 posta (200g)",
+		"caloria": "208"
+	},
+	"122": {
+		"nome": "Polvo cru",
+		"porcao": "1 xícara de chá (100g)",
+		"caloria": "64"
+	},
+	"123": {
+		"nome": "Robalo",
+		"porcao": "1 posta (100g)",
+		"caloria": "72"
+	},
+	"124": {
+		"nome": "Salmão assado ou grelhado",
+		"porcao": "1 posta (100g)",
+		"caloria": "292"
+	},
+	"125": {
+		"nome": "Salmão cru",
+		"porcao": "1 filé (100g)",
+		"caloria": "211"
+	},
+	"126": {
+		"nome": "Sardinha grelhada",
+		"porcao": "1 unidade (33g)",
+		"caloria": "97"
+	},
+	"127": {
+		"nome": "Sardinha em óleo comestível",
+		"porcao": "4 unidades (100g)",
+		"caloria": "174"
+	},
+	"128": {
+		"nome": "Sardinha em conserva com azeite",
+		"porcao": "3 unidades (100g)",
+		"caloria": "298"
+	},
+	"129": {
+		"nome": "Tainha Cozida",
+		"porcao": "1 posta (100g)",
+		"caloria": "204"
+	},
+	"130": {
+		"nome": "Truta assada ou grelhada",
+		"porcao": "1 unidade (200g)",
+		"caloria": "378"
+	},
+	"131": {
+		"nome": "Água e sal",
+		"porcao": "1 unidade",
+		"caloria": "32"
+	},
+	"132": {
+		"nome": "Biscoito de manteiga",
+		"porcao": "1 porção (100g)",
+		"caloria": "500"
+	},
+	"133": {
+		"nome": "Biscoito integral de trigo",
+		"porcao": "1 unidade (15g)",
+		"caloria": "28"
+	},
+	"134": {
+		"nome": "Champanhe",
+		"porcao": "1 unidade",
+		"caloria": "40"
+	},
+	"135": {
+		"nome": "Cream Cracker",
+		"porcao": "1 unidade",
+		"caloria": "31"
+	},
+	"136": {
+		"nome": "Leite",
+		"porcao": "1 unidade",
+		"caloria": "24"
+	},
+	"137": {
+		"nome": "Maisena",
+		"porcao": "1 unidade",
+		"caloria": "20"
+	},
+	"138": {
+		"nome": "Maria",
+		"porcao": "1 unidade",
+		"caloria": "25"
+	},
+	"139": {
+		"nome": "Palitinhos salgados",
+		"porcao": "100g",
+		"caloria": "383"
+	},
+	"140": {
+		"nome": "Passatempo alpino",
+		"porcao": "1 unidade",
+		"caloria": "76"
+	},
+	"141": {
+		"nome": "Recheado chocolate",
+		"porcao": "1 unidade",
+		"caloria": "72"
+	},
+	"142": {
+		"nome": "Recheado morango",
+		"porcao": "1 unidade",
+		"caloria": "73"
+	},
+	"143": {
+		"nome": "Salclic aperitivo",
+		"porcao": "1 unidade",
+		"caloria": "11"
+	},
+	"144": {
+		"nome": "Waffer chocolate",
+		"porcao": "1 unidade",
+		"caloria": "41"
+	},
+	"145": {
+		"nome": "Caramelo ao leite",
+		"porcao": "1 unidade",
+		"caloria": "21"
+	},
+	"146": {
+		"nome": "Goma média",
+		"porcao": "1 unidade",
+		"caloria": "18"
+	},
+	"147": {
+		"nome": "Halls",
+		"porcao": "1 unidade",
+		"caloria": "19"
+	},
+	"148": {
+		"nome": "Halls diet",
+		"porcao": "1 unidade",
+		"caloria": "8"
+	},
+	"149": {
+		"nome": "Jujuba",
+		"porcao": "1 unidade",
+		"caloria": "5"
+	},
+	"150": {
+		"nome": "Ana Maria Pullman",
+		"porcao": "1 unidade (50g)",
+		"caloria": "130"
+	},
+	"151": {
+		"nome": "Bolo de cenoura caseiro",
+		"porcao": "1 fatia (50g)",
+		"caloria": "135"
+	},
+	"152": {
+		"nome": "Bolo de cenoura com cobertura de chocolate",
+		"porcao": "1 fatia (50g)",
+		"caloria": "371"
+	},
+	"153": {
+		"nome": "Bolo de chocolate",
+		"porcao": "1 fatia (50g)",
+		"caloria": "171"
+	},
+	"154": {
+		"nome": "Bolo de fubá caseiro",
+		"porcao": "1 fatia (50g)",
+		"caloria": "310"
+	},
+	"155": {
+		"nome": "Bolo de Laranja",
+		"porcao": "1 fatia (50g)",
+		"caloria": "173"
+	},
+	"156": {
+		"nome": "Bolo pão-de-ló",
+		"porcao": "1 fatia (50g)",
+		"caloria": "268"
+	},
+	"157": {
+		"nome": "Bolo de coco",
+		"porcao": "1 fatia (50g)",
+		"caloria": "186"
+	},
+	"158": {
+		"nome": "Aerado ao leite",
+		"porcao": "1 unidade (30g)",
+		"caloria": "167"
+	},
+	"159": {
+		"nome": "Alfajor chocolate",
+		"porcao": "1 unidade (50g)",
+		"caloria": "190"
+	},
+	"160": {
+		"nome": "Alpino Bombom chocolate ao leite",
+		"porcao": "1 unidade (13g)",
+		"caloria": "71"
+	},
+	"161": {
+		"nome": "Chocolate meio-amargo",
+		"porcao": "1 unidade (200g)",
+		"caloria": "1074"
+	},
+	"162": {
+		"nome": "Ao leite",
+		"porcao": "1 unidade (200g)",
+		"caloria": "1044"
+	},
+	"163": {
+		"nome": "Baton",
+		"porcao": "1 unidade (16g)",
+		"caloria": "66"
+	},
+	"164": {
+		"nome": "Bis",
+		"porcao": "1 unidade (7,5g)",
+		"caloria": "39"
+	},
+	"165": {
+		"nome": "Chocolate em pó solúvel",
+		"porcao": "1 colher de sopa (6g)",
+		"caloria": "22"
+	},
+	"166": {
+		"nome": "Diamante Negro",
+		"porcao": "1 unidade (30g)",
+		"caloria": "156"
+	},
+	"167": {
+		"nome": "Diplomata",
+		"porcao": "1 unidade (11g)",
+		"caloria": "60"
+	},
+	"168": {
+		"nome": "Chocolate Branco",
+		"porcao": "1 unidade (30g)",
+		"caloria": "170"
+	},
+	"169": {
+		"nome": "Ouro Branco",
+		"porcao": "1 unidade (21,5g)",
+		"caloria": "114"
+	},
+	"170": {
+		"nome": "Sulflair",
+		"porcao": "1 unidade (50g)",
+		"caloria": "271"
+	},
+	"171": {
+		"nome": "Trufas",
+		"porcao": "1 unidade (20g)",
+		"caloria": "89"
+	},
+	"172": {
+		"nome": "Amendoim c/ chocolate",
+		"porcao": "1 colher de sopa (40g)",
+		"caloria": "140"
+	},
+	"173": {
+		"nome": "Apfelstrudell",
+		"porcao": "1 fatia (100g)",
+		"caloria": "296"
+	},
+	"174": {
+		"nome": "Arroz-doce",
+		"porcao": "1 porção (100g)",
+		"caloria": "164"
+	},
+	"175": {
+		"nome": "Baba-de-moça",
+		"porcao": "1 taça (150g)",
+		"caloria": "615"
+	},
+	"176": {
+		"nome": "Banana Caramelada",
+		"porcao": "1 unidade",
+		"caloria": "140"
+	},
+	"177": {
+		"nome": "Bananada",
+		"porcao": "2 unidades (100g)",
+		"caloria": "254"
+	},
+	"178": {
+		"nome": "Banana passa",
+		"porcao": "1 unidade (15g)",
+		"caloria": "28"
+	},
+	"179": {
+		"nome": "Bomba de chocolate",
+		"porcao": "1 unidade (80g)",
+		"caloria": "187"
+	},
+	"180": {
+		"nome": "Bomba de chocolate c/ cobertura de chocolate",
+		"porcao": "1 grande",
+		"caloria": "296"
+	},
+	"181": {
+		"nome": "Bombocado",
+		"porcao": "1 unidade (30g)",
+		"caloria": "91"
+	},
+	"182": {
+		"nome": "Brigadeiro",
+		"porcao": "1 unidade (30g)",
+		"caloria": "96"
+	},
+	"183": {
+		"nome": "Cajuzinho",
+		"porcao": "1 unidade (12g)",
+		"caloria": "102"
+	},
+	"184": {
+		"nome": "Calda de caramelo",
+		"porcao": "1 colher de sopa (20g)",
+		"caloria": "55"
+	},
+	"185": {
+		"nome": "Calda de chocolate com leite",
+		"porcao": "1 colher de sopa (20g)",
+		"caloria": "109"
+	},
+	"186": {
+		"nome": "Canjica",
+		"porcao": "1 xícara de chá (200g)",
+		"caloria": "226"
+	},
+	"187": {
+		"nome": "Chantibon",
+		"porcao": "1 colher de sopa (15g)",
+		"caloria": "67"
+	},
+	"188": {
+		"nome": "Claybon Amendocrem",
+		"porcao": "1 colher de sopa (20g)",
+		"caloria": "123"
+	},
+	"189": {
+		"nome": "Cobertura de caramelo",
+		"porcao": "1 colher de sopa (15g)",
+		"caloria": "156"
+	},
+	"190": {
+		"nome": "Cobertura de cereja",
+		"porcao": "1 colher de sopa (15g)",
+		"caloria": "147"
+	},
+	"191": {
+		"nome": "Cobertura de chocolate",
+		"porcao": "1 colher de sopa (15g)",
+		"caloria": "128"
+	},
+	"192": {
+		"nome": "Cobertura de marshmellow",
+		"porcao": "1 colher de sopa (15g)",
+		"caloria": "50"
+	},
+	"193": {
+		"nome": "Cocada Branca",
+		"porcao": "1 unidade",
+		"caloria": "55"
+	},
+	"194": {
+		"nome": "Creme de amendoim",
+		"porcao": "1 colher de sobremesa (15g)",
+		"caloria": "88"
+	},
+	"195": {
+		"nome": "Creme de marshmellow",
+		"porcao": "1 colher de sopa (15g)",
+		"caloria": "158"
+	},
+	"196": {
+		"nome": "Doce de Banana mole",
+		"porcao": "1 colher de sopa (20g)",
+		"caloria": "46"
+	},
+	"197": {
+		"nome": "Doce de leite",
+		"porcao": "1 fatia (50g)",
+		"caloria": "158"
+	},
+	"198": {
+		"nome": "Folheado com creme",
+		"porcao": "1 fatia (50g)",
+		"caloria": "704"
+	},
+	"199": {
+		"nome": "Framboesa em calda",
+		"porcao": "1 colher de sopa (25g)",
+		"caloria": "29"
+	},
+	"200": {
+		"nome": "Geléia de goiaba",
+		"porcao": "1 colher de sobremesa (15g)",
+		"caloria": "30"
+	},
+	"201": {
+		"nome": "Geléia de morango",
+		"porcao": "1 colher de sobremesa (15g)",
+		"caloria": "39"
+	},
+	"202": {
+		"nome": "Geléia de mocotó",
+		"porcao": "1 colher de sopa (20g)",
+		"caloria": "36"
+	},
+	"203": {
+		"nome": "Marmelada",
+		"porcao": "1 fatia (100g)",
+		"caloria": "264"
+	},
+	"204": {
+		"nome": "Marrom glacê",
+		"porcao": "1 fatia (100g)",
+		"caloria": "270"
+	},
+	"205": {
+		"nome": "Mel com própolis",
+		"porcao": "1 colher de sopa (20g)",
+		"caloria": "65"
+	},
+	"206": {
+		"nome": "Mel de abelhas",
+		"porcao": "1 colher de sopa (20g)",
+		"caloria": "62"
+	},
+	"207": {
+		"nome": "Mousse de chocolate",
+		"porcao": "1 taça (150g)",
+		"caloria": "333"
+	},
+	"208": {
+		"nome": "Paçoca",
+		"porcao": "1 unidade (30g)",
+		"caloria": "114"
+	},
+	"209": {
+		"nome": "Pamonha",
+		"porcao": "1 unidade",
+		"caloria": "135"
+	},
+	"210": {
+		"nome": "Papo-de-anjo",
+		"porcao": "1 unidade",
+		"caloria": "150"
+	},
+	"211": {
+		"nome": "Pastel de Santa Clara",
+		"porcao": "1 unidade (80g)",
+		"caloria": "143"
+	},
+	"212": {
+		"nome": "Pavê",
+		"porcao": "1 fatia (100g)",
+		"caloria": "200"
+	},
+	"213": {
+		"nome": "Pé-de-moleque",
+		"porcao": "1 unidade (20g)",
+		"caloria": "46"
+	},
+	"214": {
+		"nome": "Pêssego em calda",
+		"porcao": "1 unidade (100g)",
+		"caloria": "81"
+	},
+	"215": {
+		"nome": "Pudim de arroz caseiro",
+		"porcao": "1 porção (100g)",
+		"caloria": "230"
+	},
+	"216": {
+		"nome": "Quindim caseiro",
+		"porcao": "1 unidade (80g)",
+		"caloria": "314"
+	},
+	"217": {
+		"nome": "Rabanada",
+		"porcao": "3 fatias (100g)",
+		"caloria": "445"
+	},
+	"218": {
+		"nome": "Rapadura",
+		"porcao": "1 pedaço (50g)",
+		"caloria": "84"
+	},
+	"219": {
+		"nome": "Sonho",
+		"porcao": "1 unidade (85g)",
+		"caloria": "573"
+	},
+	"220": {
+		"nome": "Suspiro pequeno",
+		"porcao": "1 unidade (10g)",
+		"caloria": "37"
+	},
+	"221": {
+		"nome": "Abacaxi",
+		"porcao": "1 porção (100g)",
+		"caloria": "68"
+	},
+	"222": {
+		"nome": "Cereja",
+		"porcao": "1 porção (100g)",
+		"caloria": "68"
+	},
+	"223": {
+		"nome": "Framboesa",
+		"porcao": "1 porção (145g)",
+		"caloria": "68"
+	},
+	"224": {
+		"nome": "Limão",
+		"porcao": "1 porção (100g)",
+		"caloria": "68"
+	},
+	"225": {
+		"nome": "Morango",
+		"porcao": "1 porção (100g)",
+		"caloria": "68"
+	},
+	"226": {
+		"nome": "Uva",
+		"porcao": "1 porção (100g)",
+		"caloria": "68"
+	},
+	"227": {
+		"nome": "Ao leite coco",
+		"porcao": "1 unidade",
+		"caloria": "94"
+	},
+	"228": {
+		"nome": "Ao leite morango",
+		"porcao": "1 unidade",
+		"caloria": "123"
+	},
+	"229": {
+		"nome": "Banana Split",
+		"porcao": "1 taça",
+		"caloria": "843"
+	},
+	"230": {
+		"nome": "Colegial",
+		"porcao": "1 taça",
+		"caloria": "482"
+	},
+	"231": {
+		"nome": "Milk-Shake Baunilha",
+		"porcao": "1 copo (290ml)",
+		"caloria": "336"
+	},
+	"232": {
+		"nome": "Milk-Shake Chocolate",
+		"porcao": "1 copo (300ml)",
+		"caloria": "380"
+	},
+	"233": {
+		"nome": "Sorvete de massa chocolate creme morango e coco",
+		"porcao": "1 bola (40g)",
+		"caloria": "75"
+	},
+	"234": {
+		"nome": "Sorvete de massa de limão",
+		"porcao": "1 bola (40g)",
+		"caloria": "62"
+	},
+	"235": {
+		"nome": "Sundae",
+		"porcao": "1 taça",
+		"caloria": "616"
+	},
+	"236": {
+		"nome": "Açúcar branco refinado",
+		"porcao": "1 colher de chá (10g)",
+		"caloria": "40"
+	},
+	"237": {
+		"nome": "Açúcar Mascavo",
+		"porcao": "1 colher de chá (10g)",
+		"caloria": "36"
+	},
+	"238": {
+		"nome": "Alcaparra sem azeitona",
+		"porcao": "1 colher de chá (6g)",
+		"caloria": "2"
+	},
+	"239": {
+		"nome": "Alho",
+		"porcao": "1 dente",
+		"caloria": "7"
+	},
+	"240": {
+		"nome": "Caldo de carne",
+		"porcao": "1 tablete (12g)",
+		"caloria": "33"
+	},
+	"241": {
+		"nome": "Caldo de galinha",
+		"porcao": "1 tablete (12g)",
+		"caloria": "35"
+	},
+	"242": {
+		"nome": "Cebola crua",
+		"porcao": "1 colher de sopa (20g)",
+		"caloria": "6"
+	},
+	"243": {
+		"nome": "Cheiro verde",
+		"porcao": "1 maço",
+		"caloria": "4"
+	},
+	"244": {
+		"nome": "Curry",
+		"porcao": "1 colher de café (6g)",
+		"caloria": "23"
+	},
+	"245": {
+		"nome": "Erva-doce",
+		"porcao": "1 colher de chá (6g)",
+		"caloria": "1"
+	},
+	"246": {
+		"nome": "Extrato de tomate",
+		"porcao": "1 colher de sopa (20g)",
+		"caloria": "14"
+	},
+	"247": {
+		"nome": "Ketchup",
+		"porcao": "1 colher de sopa (15g)",
+		"caloria": "20"
+	},
+	"248": {
+		"nome": "Leite de coco",
+		"porcao": "½ copo (120ml)",
+		"caloria": "132"
+	},
+	"249": {
+		"nome": "Molho de pimenta vermelha",
+		"porcao": "1 colher de chá (6g)",
+		"caloria": "2"
+	},
+	"250": {
+		"nome": "Molho Inglês",
+		"porcao": "1 colher de sopa (15g)",
+		"caloria": "5"
+	},
+	"251": {
+		"nome": "Mostarda",
+		"porcao": "1 colher de chá (10g)",
+		"caloria": "8"
+	},
+	"252": {
+		"nome": "Páprica",
+		"porcao": "1 colher de chá (6g)",
+		"caloria": "20"
+	},
+	"253": {
+		"nome": "Pimenta-do-reino",
+		"porcao": "1 colher de chá (6g)",
+		"caloria": "1"
+	},
+	"254": {
+		"nome": "Sal branco refinado",
+		"porcao": "1 colher de chá (6g)",
+		"caloria": "0"
+	},
+	"255": {
+		"nome": "Shoyu",
+		"porcao": "1 colher de sopa (15g)",
+		"caloria": "6"
+	},
+	"256": {
+		"nome": "Vinagre",
+		"porcao": "1 colher de sopa (15g)",
+		"caloria": "3"
+	},
+	"257": {
+		"nome": "Branco",
+		"porcao": "1 colher de sopa (20g)",
+		"caloria": "28"
+	},
+	"258": {
+		"nome": "Chutney de manga",
+		"porcao": "1 colher de sopa (20g)",
+		"caloria": "82"
+	},
+	"259": {
+		"nome": "Maionese",
+		"porcao": "1 colher de sopa (20g)",
+		"caloria": "141"
+	},
+	"260": {
+		"nome": "Molho agridoce",
+		"porcao": "1 colher de sopa (20g)",
+		"caloria": "31"
+	},
+	"261": {
+		"nome": "Molho de iogurte",
+		"porcao": "1 colher de sopa (15g)",
+		"caloria": "21"
+	},
+	"262": {
+		"nome": "Molho roquefort",
+		"porcao": "1 colher de sopa (15g)",
+		"caloria": "78"
+	},
+	"263": {
+		"nome": "Molho rose",
+		"porcao": "1 colher de sopa (15g)",
+		"caloria": "135"
+	},
+	"264": {
+		"nome": "Molho de tomate caseiro",
+		"porcao": "1 colher de sopa (15g)",
+		"caloria": "10"
+	},
+	"265": {
+		"nome": "Molho tártaro",
+		"porcao": "1 colher de sopa (15g)",
+		"caloria": "64"
+	},
+	"266": {
+		"nome": "Azeite-de-dendê",
+		"porcao": "1 colher de sopa (10g)",
+		"caloria": "89"
+	},
+	"267": {
+		"nome": "Azeite de oliva",
+		"porcao": "1 colher de sopa (10g)",
+		"caloria": "90"
+	},
+	"268": {
+		"nome": "Banha de galinha",
+		"porcao": "1 colher de sopa (20g)",
+		"caloria": "126"
+	},
+	"269": {
+		"nome": "Banha de porco industrializada",
+		"porcao": "1 colher de sopa (20g)",
+		"caloria": "180"
+	},
+	"270": {
+		"nome": "Gordura vegetal hidrogenada",
+		"porcao": "1 colher de sopa (20g)",
+		"caloria": "180"
+	},
+	"271": {
+		"nome": "Manteiga com sal",
+		"porcao": "1 colher de sopa (10g)",
+		"caloria": "77"
+	},
+	"272": {
+		"nome": "Margarina",
+		"porcao": "1 colher de chá (10g)",
+		"caloria": "74"
+	},
+	"273": {
+		"nome": "Óleo de algodão",
+		"porcao": "1 colher de sopa (10g)",
+		"caloria": "90"
+	},
+	"274": {
+		"nome": "Óleo de amendoim",
+		"porcao": "1 colher de sopa (10g)",
+		"caloria": "90"
+	},
+	"275": {
+		"nome": "Óleo de canola",
+		"porcao": "1 colher de sopa (10g)",
+		"caloria": "90"
+	},
+	"276": {
+		"nome": "Óleo de fígado de bacalhau",
+		"porcao": "1 colher de sopa (13g)",
+		"caloria": "130"
+	},
+	"277": {
+		"nome": "Óleo de gergelim",
+		"porcao": "1 colher de sopa (10g)",
+		"caloria": "90"
+	},
+	"278": {
+		"nome": "Óleo de girassol",
+		"porcao": "1 colher de sopa (10g)",
+		"caloria": "90"
+	},
+	"279": {
+		"nome": "Óleo de milho",
+		"porcao": "1 colher de sopa (10g)",
+		"caloria": "90"
+	},
+	"280": {
+		"nome": "Óleo de peixe",
+		"porcao": "1 colher de sopa (10g)",
+		"caloria": "90"
+	},
+	"281": {
+		"nome": "Óleo de soja",
+		"porcao": "1 colher de sopa (10g)",
+		"caloria": "90"
+	},
+	"282": {
+		"nome": "Abacate",
+		"porcao": "1 porção (100g)",
+		"caloria": "177"
+	},
+	"283": {
+		"nome": "Abacaxi",
+		"porcao": "1 fatia (80g)",
+		"caloria": "50"
+	},
+	"284": {
+		"nome": "Acerola",
+		"porcao": "1 unidade (12g)",
+		"caloria": "4"
+	},
+	"285": {
+		"nome": "Banana-da-terra",
+		"porcao": "1 unidade (100g)",
+		"caloria": "117"
+	},
+	"286": {
+		"nome": "Banana-maçã",
+		"porcao": "1 unidade (65g)",
+		"caloria": "72"
+	},
+	"287": {
+		"nome": "Banana-nanica",
+		"porcao": "1 unidade (90g)",
+		"caloria": "87"
+	},
+	"288": {
+		"nome": "Banana-prata crua",
+		"porcao": "1 unidade (65g)",
+		"caloria": "55"
+	},
+	"289": {
+		"nome": "Caju",
+		"porcao": "1 unidade (100g)",
+		"caloria": "37"
+	},
+	"290": {
+		"nome": "Cana-de-açúcar",
+		"porcao": "1 gomo (100g)",
+		"caloria": "64"
+	},
+	"291": {
+		"nome": "Caqui chocolate",
+		"porcao": "1 unidade (100g)",
+		"caloria": "74"
+	},
+	"292": {
+		"nome": "Castanha de caju picada",
+		"porcao": "1 xícara de chá (150g)",
+		"caloria": "835"
+	},
+	"293": {
+		"nome": "Cereja",
+		"porcao": "1 porção (100g)",
+		"caloria": "97"
+	},
+	"294": {
+		"nome": "Coco ralado fresco",
+		"porcao": "1 colher de sopa (20g)",
+		"caloria": "50"
+	},
+	"295": {
+		"nome": "Figo maduro",
+		"porcao": "1 unidade (50g)",
+		"caloria": "68"
+	},
+	"296": {
+		"nome": "Framboesa",
+		"porcao": "1 colher de sopa (20g)",
+		"caloria": "12"
+	},
+	"297": {
+		"nome": "Goiaba vermelha",
+		"porcao": "1 unidade (100g)",
+		"caloria": "43"
+	},
+	"298": {
+		"nome": "Graviola",
+		"porcao": "1 unidade (100g)",
+		"caloria": "60"
+	},
+	"299": {
+		"nome": "Guaraná",
+		"porcao": "100g",
+		"caloria": "69"
+	},
+	"300": {
+		"nome": "Kiwi",
+		"porcao": "1 unidade",
+		"caloria": "46"
+	},
+	"301": {
+		"nome": "Laranja",
+		"porcao": "1 unidade",
+		"caloria": "46"
+	},
+	"302": {
+		"nome": "Limão",
+		"porcao": "1 unidade",
+		"caloria": "12"
+	},
+	"303": {
+		"nome": "Maçã verde",
+		"porcao": "1 unidade (130g)",
+		"caloria": "79"
+	},
+	"304": {
+		"nome": "Maçã vermelha",
+		"porcao": "1 unidade (130g)",
+		"caloria": "85"
+	},
+	"305": {
+		"nome": "Mamão maduro",
+		"porcao": "1 fatia (100g)",
+		"caloria": "36"
+	},
+	"306": {
+		"nome": "Manga",
+		"porcao": "1 unidade (350g)",
+		"caloria": "230"
+	},
+	"307": {
+		"nome": "Maracujá comum (polpa)",
+		"porcao": "1 unidade (50g)",
+		"caloria": "28"
+	},
+	"308": {
+		"nome": "Melancia",
+		"porcao": "1 fatia (100g)",
+		"caloria": "24"
+	},
+	"309": {
+		"nome": "Melão",
+		"porcao": "1 fatia (70g)",
+		"caloria": "19"
+	},
+	"310": {
+		"nome": "Morango",
+		"porcao": "9 unidades (100g)",
+		"caloria": "43"
+	},
+	"311": {
+		"nome": "Nozes",
+		"porcao": "1 unidade (10g)",
+		"caloria": "71"
+	},
+	"312": {
+		"nome": "Pêra crua",
+		"porcao": "1 unidade (110g)",
+		"caloria": "68"
+	},
+	"313": {
+		"nome": "Pêra seca",
+		"porcao": "1 xícara de chá (150g)",
+		"caloria": "144"
+	},
+	"314": {
+		"nome": "Pêssego",
+		"porcao": "1 unidade (150g)",
+		"caloria": "63"
+	},
+	"315": {
+		"nome": "Tangerina",
+		"porcao": "1 unidade (100g)",
+		"caloria": "50"
+	},
+	"316": {
+		"nome": "Uva branca nacional",
+		"porcao": "1 cacho pequeno",
+		"caloria": "130"
+	},
+	"317": {
+		"nome": "Uva passa",
+		"porcao": "1 colher de sopa (18g)",
+		"caloria": "54"
+	},
+	"318": {
+		"nome": "Agite morango Danone",
+		"porcao": "1 copo (200ml)",
+		"caloria": "90"
+	},
+	"319": {
+		"nome": "Coalhada",
+		"porcao": "1 colher de sopa (20g)",
+		"caloria": "52"
+	},
+	"320": {
+		"nome": "Batavo c/ mel",
+		"porcao": "1 unidade",
+		"caloria": "210"
+	},
+	"321": {
+		"nome": "Corpus Diet morango",
+		"porcao": "1 unidade",
+		"caloria": "74"
+	},
+	"322": {
+		"nome": "Danette",
+		"porcao": "1 unidade",
+		"caloria": "75"
+	},
+	"323": {
+		"nome": "Danoninho morango",
+		"porcao": "1 pote (65g)",
+		"caloria": "71"
+	},
+	"324": {
+		"nome": "Dan’up",
+		"porcao": "1 unidade",
+		"caloria": "170"
+	},
+	"325": {
+		"nome": "Iogurte batido com açúcar e mel",
+		"porcao": "1 copo (200ml)",
+		"caloria": "180"
+	},
+	"326": {
+		"nome": "Iogurte desnatado light Batavo",
+		"porcao": "1 copo (200ml)",
+		"caloria": "88"
+	},
+	"327": {
+		"nome": "Iogurte natural batido Vigor",
+		"porcao": "1 unidade (200ml)",
+		"caloria": "176"
+	},
+	"328": {
+		"nome": "Iogurte natural batido light Vigor",
+		"porcao": "1 unidade (200ml)",
+		"caloria": "78"
+	},
+	"329": {
+		"nome": "Iogurte natural Paulista",
+		"porcao": "1 unidade",
+		"caloria": "89"
+	},
+	"330": {
+		"nome": "Iogurte natural light Paulista",
+		"porcao": "1 unidade",
+		"caloria": "57"
+	},
+	"331": {
+		"nome": "Neston c/ cereal e frutas",
+		"porcao": "1 unidade",
+		"caloria": "202"
+	},
+	"332": {
+		"nome": "Parmalat natural desnatado",
+		"porcao": "1 unidade",
+		"caloria": "88"
+	},
+	"333": {
+		"nome": "Shake morango Nestlé",
+		"porcao": "1 pote 400g",
+		"caloria": "376"
+	},
+	"334": {
+		"nome": "Achocolatado Leco",
+		"porcao": "1 copo (200ml)",
+		"caloria": "194"
+	},
+	"335": {
+		"nome": "Chocolate pronto Glória",
+		"porcao": "1 unidade",
+		"caloria": "204"
+	},
+	"336": {
+		"nome": "Creme de leite",
+		"porcao": "1 colher de sopa (15g)",
+		"caloria": "37"
+	},
+	"337": {
+		"nome": "Leite com chocolate",
+		"porcao": "1 xícara (200ml)",
+		"caloria": "222"
+	},
+	"338": {
+		"nome": "Leite condensado",
+		"porcao": "1 colher de sopa (20g)",
+		"caloria": "65"
+	},
+	"339": {
+		"nome": "Leite de búfala",
+		"porcao": "1 copo (240ml)",
+		"caloria": "253"
+	},
+	"340": {
+		"nome": "Leite de cabra",
+		"porcao": "1 copo (240ml)",
+		"caloria": "220"
+	},
+	"341": {
+		"nome": "Leite de soja",
+		"porcao": "1 copo (240ml)",
+		"caloria": "120"
+	},
+	"342": {
+		"nome": "Leite em pó desnatado",
+		"porcao": "2 colheres de sopa (40g)",
+		"caloria": "73"
+	},
+	"343": {
+		"nome": "Leite em pó integral",
+		"porcao": "1 colher de sopa (20g)",
+		"caloria": "99"
+	},
+	"344": {
+		"nome": "Leite integral",
+		"porcao": "1 copo (240ml)",
+		"caloria": "150"
+	},
+	"345": {
+		"nome": "Leite longa vida c/ ferro",
+		"porcao": "1 copo (240ml)",
+		"caloria": "146"
+	},
+	"346": {
+		"nome": "Leite semidesnatado",
+		"porcao": "1 copo (240ml)",
+		"caloria": "115"
+	},
+	"347": {
+		"nome": "Brie",
+		"porcao": "1 fatia (30g)",
+		"caloria": "110"
+	},
+	"348": {
+		"nome": "Camembert",
+		"porcao": "1 unidade (50g)",
+		"caloria": "136"
+	},
+	"349": {
+		"nome": "Catupiry",
+		"porcao": "1 colher de sopa (20g)",
+		"caloria": "49"
+	},
+	"350": {
+		"nome": "Cheddar americano",
+		"porcao": "1 fatia (30g)",
+		"caloria": "107"
+	},
+	"351": {
+		"nome": "Cottage Lacreme",
+		"porcao": "2 colheres de sopa (30g)",
+		"caloria": "55"
+	},
+	"352": {
+		"nome": "Cream cheese light Danúbio",
+		"porcao": "1 colher de sopa (20g)",
+		"caloria": "38"
+	},
+	"353": {
+		"nome": "Cream cheese tradicional Alouette",
+		"porcao": "1 colher de sopa (20g)",
+		"caloria": "70"
+	},
+	"354": {
+		"nome": "Edam",
+		"porcao": "1 fatia (30g)",
+		"caloria": "92"
+	},
+	"355": {
+		"nome": "Ementhal",
+		"porcao": "1 fatia (30g)",
+		"caloria": "85"
+	},
+	"356": {
+		"nome": "Estepe",
+		"porcao": "1 fatia (30g)",
+		"caloria": "52"
+	},
+	"357": {
+		"nome": "Gorgonzola",
+		"porcao": "1 porção (30g)",
+		"caloria": "119"
+	},
+	"358": {
+		"nome": "Gouda Luna",
+		"porcao": "1 fatia (30g)",
+		"caloria": "107"
+	},
+	"359": {
+		"nome": "Gruyère francês",
+		"porcao": "1 porção (25g)",
+		"caloria": "93"
+	},
+	"360": {
+		"nome": "Mussarela",
+		"porcao": "1 fatia (15g)",
+		"caloria": "47"
+	},
+	"361": {
+		"nome": "Palmira",
+		"porcao": "1 fatia (30g)",
+		"caloria": "114"
+	},
+	"362": {
+		"nome": "Parmesão",
+		"porcao": "1 fatia (30g)",
+		"caloria": "121"
+	},
+	"363": {
+		"nome": "Pecorino",
+		"porcao": "1 fatia (35g)",
+		"caloria": "128"
+	},
+	"364": {
+		"nome": "Petit-Suisse",
+		"porcao": "1 unidade (25g)",
+		"caloria": "45"
+	},
+	"365": {
+		"nome": "Polenguinho",
+		"porcao": "1 unidade",
+		"caloria": "57"
+	},
+	"366": {
+		"nome": "Prato",
+		"porcao": "1 fatia (15g)",
+		"caloria": "53"
+	},
+	"367": {
+		"nome": "Provolone",
+		"porcao": "1 fatia (15g)",
+		"caloria": "51"
+	},
+	"368": {
+		"nome": "Queijo-de-minas",
+		"porcao": "1 fatia (30g)",
+		"caloria": "112"
+	},
+	"369": {
+		"nome": "Queijo-de-minas semicurado",
+		"porcao": "1 fatia (30g)",
+		"caloria": "90"
+	},
+	"370": {
+		"nome": "Queijo-do-reino",
+		"porcao": "1 fatia (30g)",
+		"caloria": "155"
+	},
+	"371": {
+		"nome": "Ricota de leite integral",
+		"porcao": "1 fatia (30g)",
+		"caloria": "54"
+	},
+	"372": {
+		"nome": "Requeijão cremoso Nestlé",
+		"porcao": "1 colher de sopa (20g)",
+		"caloria": "54"
+	},
+	"373": {
+		"nome": "Requeijão cremoso light Nestlé",
+		"porcao": "1 colher de sopa (20g)",
+		"caloria": "36"
+	},
+	"374": {
+		"nome": "Roquefort",
+		"porcao": "1 porção (25g)",
+		"caloria": "100"
+	},
+	"375": {
+		"nome": "Suíço",
+		"porcao": "1 fatia (30g)",
+		"caloria": "121"
+	},
+	"376": {
+		"nome": "Tofú (queijo de soja)",
+		"porcao": "1 porção (50g)",
+		"caloria": "68"
+	},
+	"377": {
+		"nome": "Omelete",
+		"porcao": "1 porção (100g)",
+		"caloria": "170"
+	},
+	"378": {
+		"nome": "Ovo de codorna",
+		"porcao": "1 unidade",
+		"caloria": "33"
+	},
+	"379": {
+		"nome": "Ovo de galinha cozido",
+		"porcao": "1 unidade",
+		"caloria": "78"
+	},
+	"380": {
+		"nome": "Ovo de galinha frito",
+		"porcao": "1 unidade",
+		"caloria": "108"
+	},
+	"381": {
+		"nome": "Ovo mexido",
+		"porcao": "1 porção (100g)",
+		"caloria": "195"
+	},
+	"382": {
+		"nome": "Abóbora",
+		"porcao": "1 porção (100g)",
+		"caloria": "40"
+	},
+	"383": {
+		"nome": "Agrião",
+		"porcao": "1 porção (100g)",
+		"caloria": "28"
+	},
+	"384": {
+		"nome": "Aipim frito",
+		"porcao": "1 pires de chá (100g)",
+		"caloria": "353"
+	},
+	"385": {
+		"nome": "Alface",
+		"porcao": "2 folhas (20g)",
+		"caloria": "4"
+	},
+	"386": {
+		"nome": "Amendoim",
+		"porcao": "1 porção (100g)",
+		"caloria": "549"
+	},
+	"387": {
+		"nome": "Arroz branco cozido",
+		"porcao": "1 colher de sopa (25g)",
+		"caloria": "41"
+	},
+	"388": {
+		"nome": "Arroz integral cozido",
+		"porcao": "1 colher de sopa (20g)",
+		"caloria": "22"
+	},
+	"389": {
+		"nome": "Aspargo cozido",
+		"porcao": "2 talos (20g)",
+		"caloria": "4"
+	},
+	"390": {
+		"nome": "Azeitona preta",
+		"porcao": "1 unidade (3g)",
+		"caloria": "4"
+	},
+	"391": {
+		"nome": "Azeitona verde",
+		"porcao": "1 unidade (4g)",
+		"caloria": "5"
+	},
+	"392": {
+		"nome": "Batata-doce assada",
+		"porcao": "1 unidade (100g)",
+		"caloria": "143"
+	},
+	"393": {
+		"nome": "Batata-doce frita",
+		"porcao": "1 unidade (100g)",
+		"caloria": "383"
+	},
+	"394": {
+		"nome": "Batata palha frita",
+		"porcao": "1 porção (70g)",
+		"caloria": "220"
+	},
+	"395": {
+		"nome": "Berinjela",
+		"porcao": "1 unidade (250g)",
+		"caloria": "489"
+	},
+	"396": {
+		"nome": "Beterraba",
+		"porcao": "1 pequena (125g)",
+		"caloria": "55"
+	},
+	"397": {
+		"nome": "Brócolis",
+		"porcao": "1 pires de chá (80g)",
+		"caloria": "23"
+	},
+	"398": {
+		"nome": "Cebola",
+		"porcao": "1 unidade (70g)",
+		"caloria": "32"
+	},
+	"399": {
+		"nome": "Cebola cozida",
+		"porcao": "1 unidade (100g)",
+		"caloria": "54"
+	},
+	"400": {
+		"nome": "Cenoura",
+		"porcao": "1 unidade (100g)",
+		"caloria": "45"
+	},
+	"401": {
+		"nome": "Cenoura cozida",
+		"porcao": "1 unidade (100g)",
+		"caloria": "54"
+	},
+	"402": {
+		"nome": "Couve-flor cozida",
+		"porcao": "1 porção (100g)",
+		"caloria": "41"
+	},
+	"403": {
+		"nome": "Ervilha em conserva",
+		"porcao": "1 colher de sopa (20g)",
+		"caloria": "19"
+	},
+	"404": {
+		"nome": "Escarola",
+		"porcao": "2 folhas (20g)",
+		"caloria": "7"
+	},
+	"405": {
+		"nome": "Espinafre",
+		"porcao": "1 pires de chá (100g)",
+		"caloria": "38"
+	},
+	"406": {
+		"nome": "Feijão-branco cozido",
+		"porcao": "1 colher de sopa (20g)",
+		"caloria": "24"
+	},
+	"407": {
+		"nome": "Feijão cozido e desidratado",
+		"porcao": "1 colher de sopa (20g)",
+		"caloria": "78"
+	},
+	"408": {
+		"nome": "Feijão-preto cozido",
+		"porcao": "1 colher de sopa (20g)",
+		"caloria": "14"
+	},
+	"409": {
+		"nome": "Mandioca frita",
+		"porcao": "1 pires de chá (100g)",
+		"caloria": "352"
+	},
+	"410": {
+		"nome": "Palmito cru",
+		"porcao": "1 pires de chá (100g)",
+		"caloria": "26"
+	},
+	"411": {
+		"nome": "Palmito em conserva",
+		"porcao": "1 unidade (100g)",
+		"caloria": "22"
+	},
+	"412": {
+		"nome": "Pepino cru com casca",
+		"porcao": "1 unidade (150g)",
+		"caloria": "21"
+	},
+	"413": {
+		"nome": "Pepino cru sem casca",
+		"porcao": "1 unidade (150g)",
+		"caloria": "5"
+	},
+	"414": {
+		"nome": "Repolho",
+		"porcao": "1 porção (100g)",
+		"caloria": "33"
+	},
+	"415": {
+		"nome": "Repolho cozido",
+		"porcao": "1 porção (100g)",
+		"caloria": "13"
+	},
+	"416": {
+		"nome": "Tomate cozido",
+		"porcao": "1 unidade (100g)",
+		"caloria": "18"
+	},
+	"417": {
+		"nome": "Tomate maduro",
+		"porcao": "1 unidade (100g)",
+		"caloria": "20"
+	},
+	"418": {
+		"nome": "Vagem cozida",
+		"porcao": "1 porção (100g)",
+		"caloria": "52"
+	},
+	"419": {
+		"nome": "Baguete",
+		"porcao": "1 fatia grossa",
+		"caloria": "70"
+	},
+	"420": {
+		"nome": "Baguete com gergelim",
+		"porcao": "1 fatia grossa",
+		"caloria": "82"
+	},
+	"421": {
+		"nome": "Bisnaguinha",
+		"porcao": "1 unidade",
+		"caloria": "45"
+	},
+	"422": {
+		"nome": "Brioche",
+		"porcao": "1 unidade",
+		"caloria": "210"
+	},
+	"423": {
+		"nome": "Broa de milho",
+		"porcao": "1 unidade",
+		"caloria": "150"
+	},
+	"424": {
+		"nome": "Croissant",
+		"porcao": "1 unidade (60g)",
+		"caloria": "247"
+	},
+	"425": {
+		"nome": "Panetone",
+		"porcao": "1 fatia (100g)",
+		"caloria": "283"
+	},
+	"426": {
+		"nome": "Pão de batata-inglesa",
+		"porcao": "1 unidade (30g)",
+		"caloria": "90"
+	},
+	"427": {
+		"nome": "Pão de cará",
+		"porcao": "1 unidade (50g)",
+		"caloria": "140"
+	},
+	"428": {
+		"nome": "Pão de centeio integral",
+		"porcao": "1 fatia",
+		"caloria": "58"
+	},
+	"429": {
+		"nome": "Pão francês",
+		"porcao": "1 unidade (50g)",
+		"caloria": "135"
+	},
+	"430": {
+		"nome": "Pão de fôrma tradicional",
+		"porcao": "1 fatia",
+		"caloria": "74"
+	},
+	"431": {
+		"nome": "Pão de hambúrguer",
+		"porcao": "1 unidade (100g)",
+		"caloria": "278"
+	},
+	"432": {
+		"nome": "Pão de hot-dog",
+		"porcao": "1 unidade (100g)",
+		"caloria": "286"
+	},
+	"433": {
+		"nome": "Pão de mel c/ cobertura de chocolate",
+		"porcao": "1 unidade (20g)",
+		"caloria": "91"
+	},
+	"434": {
+		"nome": "Pão de queijo",
+		"porcao": "1 unidade (20g)",
+		"caloria": "68"
+	},
+	"435": {
+		"nome": "Pão integral de trigo",
+		"porcao": "1 fatia(100g)",
+		"caloria": "261"
+	},
+	"436": {
+		"nome": "Pão sírio integral",
+		"porcao": "1 unidade (50g)",
+		"caloria": "147"
+	},
+	"437": {
+		"nome": "Canelone de presunto e queijo à bolonhesa",
+		"porcao": "2 unidades (150g)",
+		"caloria": "552"
+	},
+	"438": {
+		"nome": "Capelete de carne",
+		"porcao": "1 xícara de chá (100g)",
+		"caloria": "278"
+	},
+	"439": {
+		"nome": "Capelete de frango",
+		"porcao": "1 xícara de chá (100g)",
+		"caloria": "279"
+	},
+	"440": {
+		"nome": "Espaguete comum cozido",
+		"porcao": "1 prato (160g)",
+		"caloria": "233"
+	},
+	"441": {
+		"nome": "Espaguete ao sugo",
+		"porcao": "1 prato (160g)",
+		"caloria": "163"
+	},
+	"442": {
+		"nome": "Lasanha",
+		"porcao": "1 porção (100g)",
+		"caloria": "139"
+	},
+	"443": {
+		"nome": "Macarrão à carbonara",
+		"porcao": "1 prato (100g)",
+		"caloria": "362"
+	},
+	"444": {
+		"nome": "Macarrão integral cozido",
+		"porcao": "1 prato (160g)",
+		"caloria": "195"
+	},
+	"445": {
+		"nome": "Macarrão com molho de tomate e queijo",
+		"porcao": "1 xícara de chá (100g)",
+		"caloria": "104"
+	},
+	"446": {
+		"nome": "Macarrão cozido",
+		"porcao": "1 xícara de chá (100g)",
+		"caloria": "154"
+	},
+	"447": {
+		"nome": "Macarronada",
+		"porcao": "1 prato",
+		"caloria": "289"
+	},
+	"448": {
+		"nome": "Nhoque s/ molho",
+		"porcao": "1 prato (160g)",
+		"caloria": "227"
+	},
+	"449": {
+		"nome": "Pizza alho e óleo",
+		"porcao": "1 fatia (140g)",
+		"caloria": "276"
+	},
+	"450": {
+		"nome": "Pizza de calabresa",
+		"porcao": "1 fatia (140g)",
+		"caloria": "412"
+	},
+	"451": {
+		"nome": "Pizza de catupiry com tomate",
+		"porcao": "1 fatia (140g)",
+		"caloria": "324"
+	},
+	"452": {
+		"nome": "Pizza de champignon c/ mussarela",
+		"porcao": "1 fatia (140g)",
+		"caloria": "249"
+	},
+	"453": {
+		"nome": "Pizza de escarola c/ mussarela",
+		"porcao": "1 fatia (140g)",
+		"caloria": "246"
+	},
+	"454": {
+		"nome": "Pizza de frango com catupiry",
+		"porcao": "1 fatia (140g)",
+		"caloria": "305"
+	},
+	"455": {
+		"nome": "Pizza de mussarela",
+		"porcao": "1 fatia (140g)",
+		"caloria": "304"
+	},
+	"456": {
+		"nome": "Pizza margherita",
+		"porcao": "1 fatia (140g)",
+		"caloria": "275"
+	},
+	"457": {
+		"nome": "Pizza portuguesa",
+		"porcao": "1 fatia (140g)",
+		"caloria": "396"
+	},
+	"458": {
+		"nome": "Pizza quatro queijos",
+		"porcao": "1 fatia (140g)",
+		"caloria": "432"
+	},
+	"459": {
+		"nome": "Aveia em flocos",
+		"porcao": "1 colher de sopa (15g)",
+		"caloria": "50"
+	},
+	"460": {
+		"nome": "Corn Flakes",
+		"porcao": "1 prato (110g)",
+		"caloria": "217"
+	},
+	"461": {
+		"nome": "Farinha de amendoim",
+		"porcao": "1 colher de sopa (15g)",
+		"caloria": "56"
+	},
+	"462": {
+		"nome": "Farinha de arroz",
+		"porcao": "1 colher de sopa (15g)",
+		"caloria": "53"
+	},
+	"463": {
+		"nome": "Farinha de aveia-crua",
+		"porcao": "1 colher de sopa (15g)",
+		"caloria": "57"
+	},
+	"464": {
+		"nome": "Farinha de batata-doce",
+		"porcao": "1 colher de sopa (15g)",
+		"caloria": "52"
+	},
+	"465": {
+		"nome": "Farinha de batata-inglesa",
+		"porcao": "1 colher de sopa (15g)",
+		"caloria": "53"
+	},
+	"466": {
+		"nome": "Farinha de fubá de milho",
+		"porcao": "1 colher de sopa (20g)",
+		"caloria": "69"
+	},
+	"467": {
+		"nome": "Farinha de mandioca",
+		"porcao": "1 colher de sopa (15g)",
+		"caloria": "54"
+	},
+	"468": {
+		"nome": "Farinha de milho integral",
+		"porcao": "1 colher de sopa (15g)",
+		"caloria": "30"
+	},
+	"469": {
+		"nome": "Farinha de rosca",
+		"porcao": "1 colher de sopa (15g)",
+		"caloria": "54"
+	},
+	"470": {
+		"nome": "Farinha de trigo",
+		"porcao": "1 colher de sopa (15g)",
+		"caloria": "54"
+	},
+	"471": {
+		"nome": "Granola com castanhas",
+		"porcao": "1 xícara de chá (60g)",
+		"caloria": "300"
+	},
+	"472": {
+		"nome": "Grão de aveia cru",
+		"porcao": "1 colher de sopa (15g)",
+		"caloria": "48"
+	},
+	"473": {
+		"nome": "Germe de trigo",
+		"porcao": "1 colher de sopa (15g)",
+		"caloria": "55"
+	},
+	"474": {
+		"nome": "Maisena",
+		"porcao": "1 colher de sopa (15g)",
+		"caloria": "52"
+	},
+	"475": {
+		"nome": "Malte em pó",
+		"porcao": "1 colher de sopa (15g)",
+		"caloria": "56"
+	},
+	"476": {
+		"nome": "Arroz com feijão",
+		"porcao": "2 colheres de sopa (40g)",
+		"caloria": "75"
+	},
+	"477": {
+		"nome": "Arroz-de-carreteiro",
+		"porcao": "1 colher de sopa (20g)",
+		"caloria": "56"
+	},
+	"478": {
+		"nome": "Bife à parmegiana",
+		"porcao": "1 bife",
+		"caloria": "485"
+	},
+	"479": {
+		"nome": "Carne de panela",
+		"porcao": "1 bife (100g)",
+		"caloria": "230"
+	},
+	"480": {
+		"nome": "Creme de milho c/ leite e maisena",
+		"porcao": "1 colher de sopa (20g)",
+		"caloria": "72"
+	},
+	"481": {
+		"nome": "Empadão de frango",
+		"porcao": "1 fatia (100g)",
+		"caloria": "359"
+	},
+	"482": {
+		"nome": "Estrogonofe",
+		"porcao": "1 concha",
+		"caloria": "332"
+	},
+	"483": {
+		"nome": "Farofa",
+		"porcao": "1 colher de sopa (20g)",
+		"caloria": "169"
+	},
+	"484": {
+		"nome": "Feijoada",
+		"porcao": "1 concha",
+		"caloria": "273"
+	},
+	"485": {
+		"nome": "Frango xadrez",
+		"porcao": "1 porção",
+		"caloria": "180"
+	},
+	"486": {
+		"nome": "Leitão a pururuca",
+		"porcao": "1 porção",
+		"caloria": "966"
+	},
+	"487": {
+		"nome": "Moqueca de peixe",
+		"porcao": "1 concha",
+		"caloria": "325"
+	},
+	"488": {
+		"nome": "Panqueca",
+		"porcao": "1 unidade (30g)",
+		"caloria": "60"
+	},
+	"489": {
+		"nome": "Pimentão assado com carne",
+		"porcao": "1 unidade (200g)",
+		"caloria": "298"
+	},
+	"490": {
+		"nome": "Rabada",
+		"porcao": "1 porção",
+		"caloria": "389"
+	},
+	"491": {
+		"nome": "Ratatoille",
+		"porcao": "1 colher de sopa (20g)",
+		"caloria": "38"
+	},
+	"492": {
+		"nome": "Risoto caseiro",
+		"porcao": "1 colher de sopa (20g)",
+		"caloria": "52"
+	},
+	"493": {
+		"nome": "Salada de batata",
+		"porcao": "1 xícara de chá (100g)",
+		"caloria": "147"
+	},
+	"494": {
+		"nome": "Sashimi c/ atum namorado, linguado e nabo",
+		"porcao": "1 porção",
+		"caloria": "363"
+	},
+	"495": {
+		"nome": "Tabule",
+		"porcao": "1 colher de sopa (20g)",
+		"caloria": "52"
+	},
+	"496": {
+		"nome": "Torta de camarão",
+		"porcao": "1 fatia (100g)",
+		"caloria": "310"
+	},
+	"497": {
+		"nome": "Vatapá",
+		"porcao": "1 concha",
+		"caloria": "227"
+	},
+	"498": {
+		"nome": "Beirute",
+		"porcao": "1 unidade",
+		"caloria": "510"
+	},
+	"499": {
+		"nome": "Cachorro-quente com maionese e molho vinagrete",
+		"porcao": "1 unidade",
+		"caloria": "624"
+	},
+	"500": {
+		"nome": "Cachorro-quente com ketchup",
+		"porcao": "1 unidade",
+		"caloria": "314"
+	},
+	"501": {
+		"nome": "Cachorro-quente com mostarda",
+		"porcao": "1 unidade",
+		"caloria": "330"
+	},
+	"502": {
+		"nome": "Cachorro-quente com ketchup e mostarda",
+		"porcao": "1 unidade",
+		"caloria": "342"
+	},
+	"503": {
+		"nome": "Cheeseburguer",
+		"porcao": "1 unidade",
+		"caloria": "305"
+	},
+	"504": {
+		"nome": "Cheese salada com maionese",
+		"porcao": "1 unidade",
+		"caloria": "738"
+	},
+	"505": {
+		"nome": "Hambúrguer",
+		"porcao": "1 unidade",
+		"caloria": "296"
+	},
+	"506": {
+		"nome": "Misto quente",
+		"porcao": "1 unidade",
+		"caloria": "283"
+	},
+	"507": {
+		"nome": "Sanduíche de lingüiça",
+		"porcao": "1 unidade",
+		"caloria": "370"
+	},
+	"508": {
+		"nome": "Sanduíche de peito de peru",
+		"porcao": "1 unidade",
+		"caloria": "220"
+	},
+	"509": {
+		"nome": "Sanduíche de queijo quente",
+		"porcao": "1 unidade",
+		"caloria": "340"
+	},
+	"510": {
+		"nome": "Sanduíche de salada de atum",
+		"porcao": "1 unidade",
+		"caloria": "417"
+	}
+}
