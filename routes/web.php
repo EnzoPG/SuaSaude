@@ -1,4 +1,5 @@
 <?php
+use App\ReceitasModel;
 
 
 Route::get('/', function () {
@@ -28,12 +29,19 @@ Route::group(['middleware' => 'auth'], function () {
   Route::get('Edita_cat/{Categoria}/editaCat', 'CategoriasController@editaCat');
   Route::post('/AttCat/{Categoria}/attCat', 'CategoriasController@attCat');
 
+  //EDITAR RECEITAS
+  Route::get('Editar_Rec/{Receitas}/editRec', 'ReceitasController@editReceitas');
+  Route::post('/AttRec/{Receitas}/attRec', 'ReceitasController@attRec');
+
   //DELETAR ALIMENTOS
   Route::get('Deleta_ali/{Alimentos}/deleteAli', 'AlimentosController@deleteAli');
   Route::get('Deleta_Ali_Type/{TiposAlimentos}/deleteAliType', 'AlimentosController@deleteAliType');
 
   //DELETAR CATEGORIAS
   Route::get('Deleta_cat/{Categoria}/deleteCat', 'CategoriasController@deleteCat');
+
+  //DELETAR RECEITAS
+  Route::get('Deleta_Rec/{Receitas}/deleteRec', 'ReceitasController@deleta_Rec');
 
   //LISTAGEM DE ITENS
   Route::get('cadastro_alimento', 'AlimentosController@index');

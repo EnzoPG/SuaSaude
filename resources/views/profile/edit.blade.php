@@ -3,6 +3,18 @@
 @section('content')
 <div class="content">
   <div class="container-fluid">
+    @if (session('status'))
+    <div class="row">
+      <div class="col-sm-12">
+        <div class="alert alert-success">
+          <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+            <i class="material-icons">close</i>
+          </button>
+          <span>{{ session('status') }}</span>
+        </div>
+      </div>
+    </div>
+    @endif
     <div class="row">
       <div class="col-md-6">
         <form method="post" action="{{ route('profile.update') }}" autocomplete="off" class="form-horizontal">
@@ -15,18 +27,6 @@
               <p class="card-category">{{ __('Informação do usuário') }}</p>
             </div>
             <div class="card-body ">
-              @if (session('status'))
-              <div class="row">
-                <div class="col-sm-12">
-                  <div class="alert alert-success">
-                    <button type="button" class="close" data-dismiss="alert" aria-label="Close">
-                      <i class="material-icons">close</i>
-                    </button>
-                    <span>{{ session('status') }}</span>
-                  </div>
-                </div>
-              </div>
-              @endif
               <div class="row">
                 <label class="col-sm-2 col-form-label">{{ __('Nome') }}</label>
                 <div class="col-sm-7">

@@ -3,13 +3,25 @@
 @section('content')
 <div class="content">
   <div class="container-fluid">
+    @if (session('status'))
+      <div class="row">
+        <div class="col-sm-12">
+          <div class="alert alert-success">
+            <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+              <i class="material-icons">close</i>
+            </button>
+            <span>{{ session('status') }}</span>
+          </div>
+        </div>
+      </div>
+    @endif
     <div class="row">
       <div class="col-md-12">
         <div class="card">
           <div class="card-header card-header-warning">
             <h4 class="card-title ">Receitas</h4>
           </div>
-          <div class="card-body">
+          <div class="card-body" style="height: 400px; overflow-y: scroll;">
             <div class="table-responsive">
               <table class="table">
                 <thead class=" text-warning">
@@ -18,6 +30,7 @@
                   <th>Modo de Preparo</th>
                   <th>Tempo de Preparo</th>
                   <th>Rendimento da Receita</th>
+                  <th>Ações</th>
                 </thead>
                 <tbody>
                   @foreach(json_decode($Ingredientes) as $ing)
@@ -27,6 +40,18 @@
                     <td>{{ $ing->modo_preparo }}</td>
                     <td>{{ $ing->temp_preparo }}</td>
                     <td>{{ $ing->receita_rend }}</td>
+                    <td>
+                      <a href="Editar_Rec/{{ $ing->id_receita }}/editRec">
+                        <button type="button" rel="tooltip" title="Editar Receita" class="btn btn-info btn-link btn-sm">
+                          <i class="material-icons">edit</i>
+                        </button>
+                      </a>
+                      <a href="Deleta_Rec/{{ $ing->id_receita }}/deleteRec">
+                        <button type="button" rel="tooltip" title="Excluir Receita" class="btn btn-danger btn-link btn-sm">
+                          <i class="material-icons">delete</i>
+                        </button>
+                      </a>
+                    </td>
                   </tr>
                   @endforeach
                 </tbody>
