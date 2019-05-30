@@ -1,0 +1,203 @@
+[
+  {
+        "sexo": "Masculino",
+        "idade": "20 a 29 anos",
+        "tipo": "Atleta",
+        "gordura_corporal": "menos de 11%"
+    }, {
+        "sexo": "Masculino",
+        "idade": "30 a 39 anos",
+        "tipo": "Atleta",
+        "gordura_corporal": "menos de 12%"
+    }, {
+        "sexo": "Masculino",
+        "idade": "40 a 49 anos",
+        "tipo": "Atleta",
+        "gordura_corporal": "menos de 14%"
+    }, {
+        "sexo": "Masculino",
+        "idade": "50 a 59 anos",
+        "tipo": "Atleta",
+        "gordura_corporal": "menos de 15%"
+    }, {
+        "sexo": "Masculino",
+        "idade": "20 a 29 anos",
+        "tipo": "Bom",
+        "gordura_corporal": "11% a 13%"
+    }, {
+        "sexo": "Masculino",
+        "idade": "30 a 39 anos",
+        "tipo": "Bom",
+        "gordura_corporal": "12% a 14%"
+    }, {
+        "sexo": "Masculino",
+        "idade": "40 a 49 anos",
+        "tipo": "Bom",
+        "gordura_corporal": "14% a 16%"
+    }, {
+        "sexo": "Masculino",
+        "idade": "50 a 59 anos",
+        "tipo": "Bom",
+        "gordura_corporal": "15% a 17%"
+    }, {
+        "sexo": "Masculino",
+        "idade": "20 a 29 anos",
+        "tipo": "Normal",
+        "gordura_corporal": "14% a 20%"
+    }, {
+        "sexo": "Masculino",
+        "idade": "30 a 39 anos",
+        "tipo": "Normal",
+        "gordura_corporal": "15% a 21%"
+    }, {
+        "sexo": "Masculino",
+        "idade": "40 a 49 anos",
+        "tipo": "Normal",
+        "gordura_corporal": "17% a 23%"
+    }, {
+        "sexo": "Masculino",
+        "idade": "50 a 59 anos",
+        "tipo": "Normal",
+        "gordura_corporal": "18% a 24%"
+    }, {
+        "sexo": "Masculino",
+        "idade": "20 a 29 anos",
+        "tipo": "Elevado",
+        "gordura_corporal": "21% a 23%"
+    }, {
+        "sexo": "Masculino",
+        "idade": "30 a 39 anos",
+        "tipo": "Elevado",
+        "gordura_corporal": "22% a 24%"
+    }, {
+        "sexo": "Masculino",
+        "idade": "40 a 49 anos",
+        "tipo": "Elevado",
+        "gordura_corporal": "24% a 26%"
+    }, {
+        "sexo": "Masculino",
+        "idade": "50 a 59 anos",
+        "tipo": "Elevado",
+        "gordura_corporal": "25% a 27%"
+    }, {
+        "sexo": "Masculino",
+        "idade": "20 a 29 anos",
+        "tipo": "Muito elevado",
+        "gordura_corporal": "mais de 23%"
+    }, {
+        "sexo": "Masculino",
+        "idade": "30 a 39 anos",
+        "tipo": "Muito elevado",
+        "gordura_corporal": "mais de 24%"
+    }, {
+        "sexo": "Masculino",
+        "idade": "40 a 49 anos",
+        "tipo": "Muito elevado",
+        "gordura_corporal": "mais de 26%"
+    }, {
+        "sexo": "Masculino",
+        "idade": "50 a 59 anos",
+        "tipo": "Muito elevado",
+        "gordura_corporal": "mais 27%"
+    }, {
+        "sexo": "Feminino",
+        "idade": "20 a 29 anos",
+        "tipo": "Atleta",
+        "gordura_corporal": "menos de 16%"
+    }, {
+        "sexo": "Feminino",
+        "idade": "30 a 39 anos",
+        "tipo": "Atleta",
+        "gordura_corporal": "menos de 17%"
+    }, {
+        "sexo": "Feminino",
+        "idade": "40 a 49 anos",
+        "tipo": "Atleta",
+        "gordura_corporal": "menos de 18%"
+    }, {
+        "sexo": "Feminino",
+        "idade": "50 a 59 anos",
+        "tipo": "Atleta",
+        "gordura_corporal": "menos de 19%"
+    }, {
+        "sexo": "Feminino",
+        "idade": "20 a 29 anos",
+        "tipo": "Bom",
+        "gordura_corporal": "16% a 19%"
+    }, {
+        "sexo": "Feminino",
+        "idade": "30 a 39 anos",
+        "tipo": "Bom",
+        "gordura_corporal": "17% a 20%"
+    }, {
+        "sexo": "Feminino",
+        "idade": "40 a 49 anos",
+        "tipo": "Bom",
+        "gordura_corporal": "18% a 21%"
+    }, {
+        "sexo": "Feminino",
+        "idade": "50 a 59 anos",
+        "tipo": "Bom",
+        "gordura_corporal": "19% a 22%"
+    }, {
+        "sexo": "Feminino",
+        "idade": "20 a 29 anos",
+        "tipo": "Normal",
+        "gordura_corporal": "20% a 28%"
+    }, {
+        "sexo": "Feminino",
+        "idade": "30 a 39 anos",
+        "tipo": "Normal",
+        "gordura_corporal": "21% a 29%"
+    }, {
+        "sexo": "Feminino",
+        "idade": "40 a 49 anos",
+        "tipo": "Normal",
+        "gordura_corporal": "22% a 30%"
+    }, {
+        "sexo": "Feminino",
+        "idade": "50 a 59 anos",
+        "tipo": "Normal",
+        "gordura_corporal": "23% a 31%"
+    }, {
+        "sexo": "Feminino",
+        "idade": "20 a 29 anos",
+        "tipo": "Elevado",
+        "gordura_corporal": "29% a 31%"
+    }, {
+        "sexo": "Feminino",
+        "idade": "30 a 39 anos",
+        "tipo": "Elevado",
+        "gordura_corporal": "30% a 32%"
+    }, {
+        "sexo": "Feminino",
+        "idade": "40 a 49 anos",
+        "tipo": "Elevado",
+        "gordura_corporal": "31% a 33%"
+    }, {
+        "sexo": "Feminino",
+        "idade": "50 a 59 anos",
+        "tipo": "Elevado",
+        "gordura_corporal": "32% a 34%"
+    }, {
+        "sexo": "Feminino",
+        "idade": "20 a 29 anos",
+        "tipo": "Muito elevado",
+        "gordura_corporal": "mais de 31%"
+    }, {
+        "sexo": "Feminino",
+        "idade": "30 a 39 anos",
+        "tipo": "Muito elevado",
+        "gordura_corporal": "mais de 32%"
+    }, {
+        "sexo": "Feminino",
+        "idade": "40 a 49 anos",
+        "tipo": "Muito elevado",
+        "gordura_corporal": "mais de 33%"
+    }, {
+        "sexo": "Feminino",
+        "idade": "50 a 59 anos",
+        "tipo": "Muito elevado",
+        "gordura_corporal": "mais de 34%"
+    }
+]

@@ -87,7 +87,7 @@
         <div class="card card-chart">
           <div class="card-header card-header-secondary">
             <h4 class="card-title">
-              <p style="color: black;">Cadastrar Lembrete</p>
+              <p style="color: black;">Cadastrar Lembrete / Meta</p>
             </h4>
           </div>
           <div class="card-body">

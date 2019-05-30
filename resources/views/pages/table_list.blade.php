@@ -23,11 +23,7 @@
                   @foreach(json_decode($Ingredientes) as $ing)
                   <tr>
                     <td>{{ $ing->id_receita }}</td>
-                    <td>
-
-                      {{ $ing->alim_nome }}
-
-                    </td>
+                    <td>{{ $ing->alim_nome }}</td>
                     <td>{{ $ing->modo_preparo }}</td>
                     <td>{{ $ing->temp_preparo }}</td>
                     <td>{{ $ing->receita_rend }}</td>

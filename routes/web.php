@@ -71,7 +71,7 @@ Route::group(['middleware' => 'auth'], function () {
   })->name('upgrade');
 
   //ATUALIZA IMC
-  Route::post('/update_data/{User}/updateData', 'ProfileController@updateData');
+  Route::post('update_data/{User}/updateData', 'ProfileController@updateData');
 
 });
 

@@ -28,6 +28,8 @@ class TableListController extends Controller
       $Ingredientes = DB::select("SELECT * FROM receitas INNER JOIN alimentos ON receitas.ingredientes = alimentos.alim_id WHERE alimentos.alim_id IN (receitas.ingredientes)");
       //DB::select("SELECT * FROM receitas INNER JOIN alimentos ON receitas.ingredientes = alimentos.alim_id WHERE alimentos.alim_id IN (receitas.ingredientes)");
 
+      // dd(json_decode($Ingredientes[0]->ingredientes));
+
       return view('pages.table_list')->with([
         'Alimentos' => json_encode($Alimentos, true),
         'TiposAlimentos' => json_encode($TiposAlimentos, true),

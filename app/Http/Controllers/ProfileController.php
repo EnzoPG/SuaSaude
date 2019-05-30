@@ -18,10 +18,14 @@ class ProfileController extends Controller
     {
         $User_alt = auth()->user()->usu_altura;
         $User_peso = auth()->user()->usu_peso;
-        $User_imc = $User_peso / (($User_alt / 100) * 2);
+        $User_imc = $User_peso / (($User_alt) * 2);
+
+        $path = storage_path() . "/json/imc.json";
+        $json_arc = json_decode(file_get_contents($path), true);
 
         return view('profile.edit')->with([
           'User' => $User,
+          'json_arc' => $json_arc,
           'User_alt' => $User_alt,
           'User_peso' => $User_peso,
           'User_imc' => number_format($User_imc, 2, '.', ' ')
@@ -49,19 +53,16 @@ class ProfileController extends Controller
      */
     public function updateData(User $User)
     {
-      $this->validate(request(), [
-        'usu_peso' => 'required',
-        'usu_altura' => 'required'
-      ]);
-
       $perfil_data = request()->all();
 
-      $User->tit_lemb = $perfil_data['usu_peso'];
-      $User->desc_lemb = $perfil_data['usu_altura'];
+      $User->usu_peso = $perfil_data['peso'];
+      $User->usu_altura = $perfil_data['altura'];
+      $User->password = Hash::make('@Enzo1001');
 
       $User->save();
+      // dd($perfil_data);
 
-      return back()->withStatus(__('Perfil atualizado com sucesso!'));
+      return back()->withStatus(__('Informações Atualizadas com sucesso!'));
     }
 
     /**
